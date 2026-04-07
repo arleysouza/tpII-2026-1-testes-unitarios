@@ -1,0 +1,16 @@
+{
+  "name": "aula8-jest-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.9.3"
+  }
+}
