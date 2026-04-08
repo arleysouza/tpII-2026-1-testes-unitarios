@@ -285,7 +285,7 @@ Conceitos:
 - `jest.spyOn()`
 - restauração com `mockRestore()`
 
-## Boas práticas para os alunos
+## Boas práticas para os testes
 
 - crie um teste para cada comportamento importante
 - use nomes descritivos nos blocos `it(...)`
@@ -293,16 +293,3 @@ Conceitos:
 - não misture muitos comportamentos diferentes no mesmo teste
 - prefira testar a regra de negócio, não detalhes irrelevantes da implementação
 
-## Resumo
-
-Ao final deste material, o aluno terá contato com os principais fundamentos de testes unitários com Jest:
-
-- organização de testes com `describe` e `it`
-- verificações com `expect`
-- comparação de valores e objetos
-- tratamento de erros
-- testes assíncronos
-- criação de mocks
-- uso de spies
-
-Este repositório pode ser usado como base para novos exercícios, ampliando os cenários e introduzindo novos recursos do Jest conforme a disciplina evoluir.
