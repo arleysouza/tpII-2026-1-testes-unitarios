@@ -226,7 +226,7 @@ somarSpy.mockRestore();
 
 ### Exercício 1
 
-Arquivo: [src/exercicio1.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio1.ts)
+Arquivo: [src/exercicio1.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio1.ts)
 
 Conceitos:
 
@@ -237,7 +237,7 @@ Conceitos:
 
 ### Exercício 2
 
-Arquivo: [src/exercicio2.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio2.ts)
+Arquivo: [src/exercicio2.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio2.ts)
 
 Conceitos:
 
@@ -247,7 +247,7 @@ Conceitos:
 
 ### Exercício 3
 
-Arquivo: [src/exercicio3.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio3.ts)
+Arquivo: [src/exercicio3.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio3.ts)
 
 Conceitos:
 
@@ -258,7 +258,7 @@ Conceitos:
 
 ### Exercício 4
 
-Arquivo: [src/exercicio4.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio4.ts)
+Arquivo: [src/exercicio4.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio4.ts)
 
 Conceitos:
 
@@ -268,7 +268,7 @@ Conceitos:
 
 ### Exercício 5
 
-Arquivo: [src/exercicio5.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio5.ts)
+Arquivo: [src/exercicio5.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio5.ts)
 
 Conceitos:
 
@@ -277,7 +277,7 @@ Conceitos:
 
 ### Exercício 6
 
-Arquivo: [src/exercicio6.ts](/mnt/d/pessoal/fatec/jacarei/DSM/Técnicas%20de%20programação%20II/exemplo/aula8-jest/app/src/exercicio6.ts)
+Arquivo: [src/exercicio6.ts](https://github.com/arleysouza/tpII-2026-1-testes-unitarios/tree/main/src/exercicio6.ts)
 
 Conceitos:
 
